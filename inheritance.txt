@@ -1,0 +1,41 @@
+class automobile {
+string maker = new maker (?yamaha?);
+string identification number = new identification number (?two zero seven five?)
+int year = 2015;
+int passenger = 4;
+void display ();
+{
+
+system.out.println(?maker?, ?identification number?+ identification number,
+?year?+ year, ?passenger?, + passenger, );
+}
+class car extends automobile
+{
+boolean warranty =1;
+int door = 2;
+int top speed =100;
+string size = new size (?fifteen feet?);
+string rear door = new rear door (?one?);
+void public display();{
+system.out.println(?warranty?+ warranty,?door?+ door,?topspeed?+ topspeed,
+?size?+ size, ?rear door? + rear door);
+}
+}
+class truck extend automobile
+{
+void car (), {
+
+string wheels = new wheels (?six?);
+int racks = 3;
+system.out.println (?wheels ?+ wheels,?racks?+ racks);
+
+}
+}
+public class
+{
+public static void main (strings[] args)
+{
+class automobile = new automobile ();
+automobile.display();
+}
+}
